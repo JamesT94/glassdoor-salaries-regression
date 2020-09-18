@@ -1,5 +1,6 @@
-# glassdoor-jobs PROJECT TITLE
-Repository for a short project exploring Data Science jobs and relative salaries from Glassdoor.com
+# Data Scientists Jobs - Glassdoor (US)
+This project serves as a foundation and platform for a future project exploring salary estimates for data science related jobs in the UK. The following project will contain new data collected by myself using Selenium from Glassdoor.com.
+
 
 ## Resources Used
 **Python Version:** 3.7  
