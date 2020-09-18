@@ -38,5 +38,5 @@ Transformed the categorical variables into dummy variables then split data into 
 - Lasso Regression: MAE = 17.46
 - Random Forest : MAE = 15.3
 
-# Putting Into Production
+## Putting Into Production
 Flask API endpoint hosted on local webserver following tutorial. Takes a list of values and returns estimated salary.
