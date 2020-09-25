@@ -21,7 +21,7 @@ After loading the data from Kaggle I needed to go through some cleaning processe
 * Classified job titles into broader categories and added as a new variable
 
 ## EDA
-TBC
+TBC - detailed view can be found in the [EDA file](EDA.ipynb)
 - images showing salary by job title/type/level
 - salary by state/location
 - correlation between continuous variables
